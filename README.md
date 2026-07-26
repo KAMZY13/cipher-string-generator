@@ -28,8 +28,8 @@ npm run dev
 
 ## Live Demo
 
-Coming Soon
+cipher-string-generator.vercel.app
 
 ## Author
 
-Afolabi OLuwakamiye Samuel
+Afolabi Oluwakamiye Samuel
